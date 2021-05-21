@@ -36,7 +36,7 @@ require (
 
 replace (
 	// lets override the go-scm version from tektoncd
-	github.com/jenkins-x/go-scm => github.com/jenkins-x/go-scm v1.9.0
+	github.com/jenkins-x/go-scm => /Users/gibsof/go/src/github.com/jenkins-x/go-scm
 
 	github.com/tektoncd/pipeline => github.com/jenkins-x/pipeline v0.3.2-0.20210223153617-0d1186b27496
 
